@@ -1,0 +1,43 @@
+.CardConteiner{
+display: flex;
+align-items: center;
+flex-direction: row;
+justify-content: center;
+border-radius: 8px;
+margin: 24px; 
+gap: 32px;
+}
+.header{
+    background-color: #95999E;
+}
+.bodyconteiner{
+    background-color: #BBBBBB ;
+}
+.infofooter{
+    background-color: #17191C;
+}
+.Cards{
+    background-color: #95999E;
+}
+footer{
+    background-color: #17191C;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 288px;
+    color: white;
+    padding: 24px;
+}
+.contenedoraboutUs{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 16px;
+
+   
+}
+.aboutUs{
+    text-align: left;
+}
+
+
